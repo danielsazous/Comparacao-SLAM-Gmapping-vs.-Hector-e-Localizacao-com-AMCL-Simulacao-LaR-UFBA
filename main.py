@@ -30,6 +30,7 @@ import os
 import numpy as np
 from PIL import Image
 
+
 PASTA_MAPS = "slamlocalizacao/maps"
 PASTA_SAIDA = "imagens"
 ESCALA_OVERVIEW = 3   # zoom da vista geral
